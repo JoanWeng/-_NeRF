@@ -23,4 +23,4 @@ pip install torch numpy matplotlib imageio Pillow tqdm scikit-image
 
 N_ITERS15000 都是在本機上訓練，N_ITERS30000 則是在學校的DGX訓練
 
-colmap_out都是在本機跑完再給DGX，因為我在DGX無法下在colmap
+colmap_out都是在本機跑完再給DGX，因為我在DGX無法下載colmap
